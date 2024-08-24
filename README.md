@@ -1,6 +1,10 @@
 # Hii my name is Cauã. Welcome to my profile! 🖐🏻✨
 
-### This GitHub profile contains (or will contain) projects in the following languages:
+![CauaLima18Escolar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaLima18Escolar&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaLima18Escolar&layout=donut)](https://github.com/CauaLima18Escolar/github-readme-stats)
+
+### This GitHub profile contains (or will contain) projects in the following languages 🚀
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://GitHub.com/CauaLima18Escolar)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://GitHub.com/CauaLima18Escolar)
@@ -17,5 +21,6 @@
 
 ### And others...
 
-## Check out my professional account:
+## Check out my social media profiles 🥳✨
 [![GitHub CauaLima17](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://GitHub.com/CauaLima17)
+[![Instagram CauaLima17](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cauadelima_)
