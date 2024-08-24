@@ -1,5 +1,7 @@
 # Hii my name is Cauã. Welcome to my profile! 🖐🏻✨
 
+### About this profile:
+
 ![CauaLima18Escolar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaLima18Escolar&show=prs_merged&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaLima18Escolar&layout=donut)](https://github.com/CauaLima18Escolar/github-readme-stats)
 
@@ -16,10 +18,10 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://GitHub.com/CauaLima18Escolar)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://GitHub.com/CauaLima18Escolar)
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://GitHub.com/CauaLima18Escolar)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://GitHub.com/CauaLima18Escolar)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://GitHub.com/CauaLima18Escolar)  
 
-### And others...
+**And others...**
 
-## Check out my social media profiles 🥳✨
+# Check out my social media profiles 🥳✨  
 [![GitHub CauaLima17](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://GitHub.com/CauaLima17)
 [![Instagram CauaLima17](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cauadelima_)
