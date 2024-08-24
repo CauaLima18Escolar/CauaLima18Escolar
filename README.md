@@ -1,5 +1,5 @@
 # Welcome to my profile! 🖐🏻✨
-<p style="font-size: 1.2rem">Hi, my name is <span style="font-weight: bold">Cauã de Lima!</span> I'm 18 years old and I'm currently studying programming to become a professional in the field.</p>
+### Hi, my name is Cauã de Lima! I'm 18 years old and I'm currently studying programming to become a professional in the field.
 
 <br>
 
