@@ -3,7 +3,7 @@
 
 <br>
 
-<div style="display: flex; gap: 16px;">
+<div style="display: flex;">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CauaLima18Escolar&show=prs_merged&show_icons=true&theme=radical" alt="CauaLima18Escolar's GitHub stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaLima18Escolar&layout=donut" alt="Top Langs">
 </div>
