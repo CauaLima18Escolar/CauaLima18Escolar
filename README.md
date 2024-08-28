@@ -3,8 +3,10 @@
 
 <br>
 
-![CauaLima18Escolar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaLima18Escolar&show=prs_merged&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauaLima18Escolar&layout=donut)](https://github.com/CauaLima18Escolar/github-readme-stats)
+<div style="display: flex; gap: 8px;">
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=CauaLima18Escolar&show=prs_merged&show_icons=true&theme=radical" alt="CauaLima18Escolar's GitHub stats">
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaLima18Escolar&layout=donut" alt="Top Langs">
+</div>
 
 ### This GitHub profile contains (or will contain) projects in the following languages 🚀
 
