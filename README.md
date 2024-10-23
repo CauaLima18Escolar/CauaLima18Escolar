@@ -1,5 +1,5 @@
 # Welcome to my profile! 🖐🏻✨
-### Hi, my name is Cauã de Lima! I'm 18 years old and I'm currently studying programming to become a professional in the field.
+### Hi, my name is Cauã de Lima! I'm 19 years old and I'm currently studying programming to become a professional in the field.
 
 <br>
 
